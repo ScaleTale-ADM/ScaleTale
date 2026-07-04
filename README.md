@@ -52,29 +52,32 @@ Join the Scale Tale Community Discord to follow updates, report bugs, share feed
 
 ### Project Status
 
-ScaleTale is currently in beta. The game is playable, but systems, balance, visuals and code structure are still evolving.
-
+ScaleTale is currently in beta. The game is playable, but the systems, balance, visuals, and code structure are still evolving. The project is currently in a testing phase with a single lead developer.
+Because of this, the game may show serious bugs that affect the internal quality of the game. If this happens, we at the ScaleTale internal team appreciate you reporting the issue through our community server on Discord. The entry link is as follows: https://discord.gg/VUQ8PKBzY.
+Thank you for trusting ScaleTale.
+Sincerely,
+The ScaleTale management team.
 ---
 
-## Espanol
+## Español
 
-### Caracteristicas
+### Características
 
 - Combate arcade espacial hecho con Python y Pygame.
-- Multiples tipos de enemigos y bosses cinematograficos.
-- Selector de planetas con atmosferas visuales diferentes.
-- Contenido misterioso de Scale-0 y exploracion top-down.
+- Múltiples tipos de enemigos y bosses cinematográficos.
+- Selector de planetas con atmósferas visuales diferentes.
+- Contenido misterioso de Scale-0 y exploración top-down.
 - Sistema de escaneo en cabina antes de bosses importantes.
-- Musica dinamica segun el contexto del juego.
+- Música dinámica según el contexto del juego.
 - Efectos de sonido para armas, bosses, cabina, loot, impactos y pickups.
-- Sistema de botin tras derrotar bosses.
-- Soporte para idioma espanol e ingles.
+- Sistema de botín tras derrotar bosses.
+- Soporte para idioma español e inglés.
 
 ### Como Jugar
 
-1. Descarga la ultima version desde GitHub Releases.
-2. Instala Python 3.
-3. Instala Pygame:
+1. Descarga la ultima versión desde GitHub Releases.
+2. Instala Python 3.0.
+3. Instala Pygame a través de la consola de tu ordenador/portatil con el comando:
 
 ```bash
 pip install pygame
@@ -88,11 +91,11 @@ python SCATEL_V71_MUSIC_ASSET_STRUCTURE_BETA.py
 
 ### Descarga Recomendada
 
-Para jugadores normales, usa el `.zip` mas reciente de la seccion GitHub Releases. Deberia incluir:
+Para jugadores normales, usa el `.zip` mas reciente de la seccion GitHub Releases. Debería incluir:
 
 - el archivo `.py` principal
 - la carpeta `assets`
-- documentacion
+- documentación
 
 ### Comunidad
 
@@ -100,5 +103,9 @@ Unete al Discord de Scale Tale Community para recibir novedades, reportar bugs, 
 
 ### Estado Del Proyecto
 
-ScaleTale esta actualmente en beta. El juego es jugable, pero los sistemas, balance, visuales y estructura del codigo siguen evolucionando.
+**ScaleTale está actualmente en beta. El juego es jugable, pero los sistemas, balance, visuales y estructura del código siguen evolucionando. El proyecto se encuentra actualmente en una fase de prueba junto a un único desarrollador principal.
+Debido a eso, el juego puede mostrar errores graves que afecten a la calidad interna del juego. Si esto ocurre, agradecemos desde el equipo interno de ScaleTale el reporte del problema a través de nuestro servidor de la comunidad localizado en Discord. El enlaze de entrada es el siguiente: https://discord.gg/VUQ8PKBzY. 
+Gracias por confiar en Scaletale.
+Atentamente:
+El equipo de administración de ScaleTale.**
 
