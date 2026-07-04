@@ -74,9 +74,9 @@ ancho_escalado = ANCHO
 alto_escalado = ALTO
 
 # Ajustes rapidos de gameplay: cambia estos valores si quieres retocar velocidad o escudo.
-PLAYER_SPEED_NORMAL = 7.1
-PLAYER_SPEED_SLOWED = 4.8
-PLAYER_BULLET_SPEED = 11
+PLAYER_SPEED_NORMAL = 9.1
+PLAYER_SPEED_SLOWED = 6.8
+PLAYER_BULLET_SPEED = 15
 SHIELD_RADIUS_MAIN = 42
 SHIELD_RADIUS_COOP = 36
 
