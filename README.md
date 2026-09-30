@@ -2,7 +2,7 @@
 
 **ScaleTale** is a free Python/Pygame space action game created as a personal indie project.
 
-**Current public beta:** `V71 - Music & SFX Beta`
+**Current public beta:** `V102 - Wildfront Beta`
 
 ScaleTale combines arcade space combat, boss fights, planet selection, Scale-0 mystery events, cockpit scanning, dynamic music, sound effects and boss loot rewards.
 
