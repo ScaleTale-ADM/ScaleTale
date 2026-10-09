@@ -28,18 +28,18 @@ Menu / Gameplay / Boss / Scale-0 / Cockpit / Planet selector / Other
 
 ---
 
-## Espanol
+## Español
 
-**Version del juego:**
+**Versión del juego:**
 
 **Sistema operativo:**
 
-**Donde ocurrio?**
+**Dónde ocurrió?**
 Menu / Gameplay / Boss / Scale-0 / Cabina / Selector de planetas / Otro
 
-**Que ocurrio?**
+**Qué ocurrió?**
 
-**Que deberia haber ocurrido?**
+**Qué debería haber ocurrido?**
 
 **Pasos para reproducirlo:**
 1.
