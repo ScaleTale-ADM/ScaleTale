@@ -53,7 +53,7 @@ Join the Scale Tale Community Discord to follow updates, report bugs, share feed
 ### Project Status
 
 ScaleTale is currently in beta. The game is playable, but the systems, balance, visuals, and code structure are still evolving. The project is currently in a testing phase with a single lead developer.
-Because of this, the game may show serious bugs that affect the internal quality of the game. If this happens, we at the ScaleTale internal team appreciate you reporting the issue through our community server on Discord. The entry link is as follows: https://discord.gg/VUQ8PKBzY.
+Because of this, the game may show serious bugs that affect the internal quality of the game. If this happens, we at the ScaleTale internal team appreciate you reporting the issue through our community server on Discord. The entry link is as follows: https://discord.gg/h4XEmckRv.
 Thank you for trusting ScaleTale.
 Sincerely,
 The ScaleTale management team.
